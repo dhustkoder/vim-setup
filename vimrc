@@ -1,6 +1,6 @@
 set t_Co=256
 
-colorscheme borland
+colorscheme darkblue
 
 set number
 set showcmd
@@ -18,3 +18,4 @@ set laststatus=2
 
 autocmd FileType javascript setlocal ts=2 sts=2 sw=2
 syntax on
+
